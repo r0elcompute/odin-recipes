@@ -36,10 +36,12 @@ ul {
     text-align: center;
     line-height: 2rem;
     list-style-type: none;
+    box-shadow: 1px 1px 1px 1px;
 }
 
 ul li a {
-    color: #fff;
+    color: #f5ebe0;
+    font-size: 1.3rem;
     text-decoration: none;
     font-family: Verdana, Geneva;
 }
